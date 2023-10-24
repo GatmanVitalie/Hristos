@@ -29,14 +29,9 @@ body {
 
 .glass-effect {
     background: rgba(255, 255, 255, 0.2);
-    display: flex;
-    justify-content: center;
-    align-items: center;
     border-radius: 20px;
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
     text-align: center;
-    width: 100%;
-    height: 3vw;
     max-width: 100%;
     transition: all 0.5s;
     padding: 20px;
